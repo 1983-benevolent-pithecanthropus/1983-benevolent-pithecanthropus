@@ -10,9 +10,15 @@ Electrical and Electronic Engineering student at the University of Southampton.
 - C
 - Python
 - Git and GitHub
+- Electronic tools 
+
+## What I am focusing on
+- Building my YouTube Channel (Check out my social links!)
+- Feeding myself well
+- Uni studies 
 
 ## Fun fact about me
-I love biscuits, cookies, crackers etc so much. One time I ate over 50 of them in one day!!!
+I love biscuits, cookies, crackers etc so much. One time I ate over 50 of them in one day!!!  
 For some-whatever reasons, I like programming in light warm mode with a sand tone filter. 
 
 <!--
